@@ -22,7 +22,7 @@
 <p>The balance of the account will be updated after each successful deposit or withdrawal transaction. You can check the current balance at any time by selecting the "check amount" option.</p>
 
 <h2>Credits</h2>
-<p>This script was created by Anthony Constant (AC). If you have any questions or suggestions, you can contact him at anthonyconstant.co.uk/</p>
+<p>This script was created by Anthony Constant (AC). If you have any questions or suggestions, you can contact him at https://anthonyconstant.co.uk/</p>
 
 <h2>License</h2>
 <p>This script is released under the MIT License. See the LICENSE file for more details.</p>
