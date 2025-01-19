@@ -20,6 +20,10 @@ To use this banking application:
 
 The balance of the account will be updated after each successful deposit or withdrawal transaction. You can check the current balance at any time by selecting the "check amount" option.
 
+## Demo
+
+https://youtu.be/58A53PYh4S0
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
